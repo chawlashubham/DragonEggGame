@@ -1,0 +1,2071 @@
+fileFormatVersion: 2
+guid: 9e127fb4664e7d346a60ed73af2e9676
+timeCreated: 1463171385
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: vulture_0
+    21300002: vulture_1
+    21300004: vulture_2
+    21300006: vulture_3
+    21300008: vulture_4
+    21300010: vulture_5
+    21300012: vulture_6
+    21300014: vulture_7
+    21300016: vulture_8
+    21300018: vulture_9
+    21300020: vulture_10
+    21300022: vulture_11
+    21300024: vulture_12
+    21300026: vulture_13
+    21300028: vulture_14
+    21300030: vulture_15
+    21300032: vulture_16
+    21300034: vulture_17
+    21300036: vulture_18
+    21300038: vulture_19
+    21300040: vulture_20
+    21300042: vulture_21
+    21300044: vulture_22
+    21300046: vulture_23
+    21300048: vulture_24
+    21300050: vulture_25
+    21300052: vulture_26
+    21300054: vulture_27
+    21300056: vulture_28
+    21300058: vulture_29
+    21300060: vulture_30
+    21300062: vulture_31
+    21300064: vulture_32
+    21300066: vulture_33
+    21300068: vulture_34
+    21300070: vulture_35
+    21300072: vulture_36
+    21300074: vulture_37
+    21300076: vulture_38
+    21300078: vulture_39
+    21300080: vulture_40
+    21300082: vulture_41
+    21300084: vulture_42
+    21300086: vulture_43
+    21300088: vulture_44
+    21300090: vulture_45
+    21300092: vulture_46
+    21300094: vulture_47
+    21300096: vulture_48
+    21300098: vulture_49
+    21300100: vulture_50
+    21300102: vulture_51
+    21300104: vulture_52
+    21300106: vulture_53
+    21300108: vulture_54
+    21300110: vulture_55
+    21300112: vulture_56
+    21300114: vulture_57
+    21300116: vulture_58
+    21300118: vulture_59
+    21300120: vulture_60
+    21300122: vulture_61
+    21300124: vulture_62
+    21300126: vulture_63
+    21300128: vulture_64
+    21300130: vulture_65
+    21300132: vulture_66
+    21300134: vulture_67
+    21300136: vulture_68
+    21300138: vulture_69
+    21300140: vulture_70
+    21300142: vulture_71
+    21300144: vulture_72
+    21300146: vulture_73
+    21300148: vulture_74
+    21300150: vulture_75
+    21300152: vulture_76
+    21300154: vulture_77
+    21300156: vulture_78
+    21300158: vulture_79
+    21300160: vulture_80
+    21300162: vulture_81
+    21300164: vulture_82
+    21300166: vulture_83
+    21300168: vulture_84
+    21300170: vulture_85
+    21300172: vulture_86
+    21300174: vulture_87
+    21300176: vulture_88
+    21300178: vulture_89
+    21300180: vulture_90
+    21300182: vulture_91
+    21300184: vulture_92
+    21300186: vulture_93
+    21300188: vulture_94
+    21300190: vulture_95
+    21300192: vulture_96
+    21300194: vulture_97
+    21300196: vulture_98
+    21300198: vulture_99
+    21300200: vulture_100
+    21300202: vulture_101
+    21300204: vulture_102
+    21300206: vulture_103
+    21300208: vulture_104
+    21300210: vulture_105
+    21300212: vulture_106
+    21300214: vulture_107
+    21300216: vulture_108
+    21300218: vulture_109
+    21300220: vulture_110
+    21300222: vulture_111
+    21300224: vulture_112
+    21300226: vulture_113
+    21300228: vulture_114
+    21300230: vulture_115
+    21300232: vulture_116
+    21300234: vulture_117
+    21300236: vulture_118
+    21300238: vulture_119
+    21300240: vulture_120
+    21300242: vulture_121
+    21300244: vulture_122
+    21300246: vulture_123
+    21300248: vulture_124
+    21300250: vulture_125
+    21300252: vulture_126
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: vulture_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 590
+        width: 66
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: 41.5}
+        - {x: 32, y: 42.5}
+        - {x: -17, y: 42.5}
+        - {x: -33, y: 19.5}
+        - {x: -33, y: -42.5}
+        - {x: 25, y: -42.5}
+        - {x: 28, y: -39.5}
+        - {x: 28, y: -36.5}
+        - {x: 33, y: -39.5}
+    - name: vulture_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 590
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -26.5}
+        - {x: 31, y: -21.5}
+        - {x: 34, y: -1.5}
+        - {x: 34, y: 36.5}
+        - {x: 32, y: 40.5}
+        - {x: -7, y: 40.5}
+        - {x: -23, y: 35.5}
+        - {x: -33, y: -0.5}
+        - {x: -34, y: -11.5}
+        - {x: -34, y: -40.5}
+        - {x: 29, y: -40.5}
+        - {x: 32, y: -39.5}
+        - {x: 29, y: -34.5}
+        - {x: 25, y: -30.5}
+    - name: vulture_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 590
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 40.5}
+        - {x: -4, y: 40.5}
+        - {x: -22, y: 24.5}
+        - {x: -28, y: 9.5}
+        - {x: -34, y: -17.5}
+        - {x: -34, y: -40.5}
+        - {x: 26, y: -40.5}
+        - {x: 29, y: -37.5}
+        - {x: 34, y: -35.5}
+        - {x: 34, y: 31.5}
+    - name: vulture_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 590
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: -28.5}
+        - {x: 32.5, y: -22.5}
+        - {x: 23.5, y: -15.5}
+        - {x: 32.5, y: 11.5}
+        - {x: 32.5, y: 42.5}
+        - {x: -10.5, y: 42.5}
+        - {x: -22.5, y: 22.5}
+        - {x: -26.5, y: 13.5}
+        - {x: -32.5, y: 2.5}
+        - {x: -32.5, y: -42.5}
+        - {x: 27.5, y: -42.5}
+        - {x: 30.5, y: -40.5}
+        - {x: 30.5, y: -36.5}
+        - {x: 26.5, y: -32.5}
+    - name: vulture_4
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 590
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: -28.5}
+        - {x: 32.5, y: -22.5}
+        - {x: 23.5, y: -15.5}
+        - {x: 32.5, y: 11.5}
+        - {x: 32.5, y: 42.5}
+        - {x: -10.5, y: 42.5}
+        - {x: -22.5, y: 22.5}
+        - {x: -26.5, y: 13.5}
+        - {x: -32.5, y: 2.5}
+        - {x: -32.5, y: -42.5}
+        - {x: 27.5, y: -42.5}
+        - {x: 30.5, y: -40.5}
+        - {x: 30.5, y: -36.5}
+        - {x: 26.5, y: -32.5}
+    - name: vulture_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 590
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 41.5}
+        - {x: -27, y: 17.5}
+        - {x: -40, y: -14.5}
+        - {x: -40, y: -39.5}
+        - {x: -25, y: -41.5}
+        - {x: 30, y: -41.5}
+        - {x: 40, y: -24.5}
+        - {x: 40, y: 34.5}
+        - {x: 36, y: 41.5}
+    - name: vulture_6
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 590
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 41.5}
+        - {x: -40, y: -1.5}
+        - {x: -40, y: -41.5}
+        - {x: 35, y: -41.5}
+        - {x: 40, y: -37.5}
+        - {x: 40, y: 41.5}
+    - name: vulture_7
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 591
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 41}
+        - {x: -6.5, y: 38}
+        - {x: -32.5, y: 1}
+        - {x: -42.5, y: -23}
+        - {x: -42.5, y: -41}
+        - {x: 28.5, y: -41}
+        - {x: 42.5, y: -35}
+        - {x: 42.5, y: 34}
+        - {x: 38.5, y: 41}
+    - name: vulture_8
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 592
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 39}
+        - {x: -39, y: -12}
+        - {x: -39, y: -39}
+        - {x: 39, y: -39}
+        - {x: 39, y: 35}
+        - {x: 37, y: 39}
+    - name: vulture_9
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 567
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 50.5}
+        - {x: -45, y: 15.5}
+        - {x: -45, y: -20.5}
+        - {x: -19, y: -50.5}
+        - {x: 14, y: -50.5}
+        - {x: 45, y: -18.5}
+        - {x: 45, y: 46.5}
+        - {x: 43, y: 50.5}
+    - name: vulture_10
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 566
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 50.5}
+        - {x: -45, y: 20.5}
+        - {x: -45, y: 0.5}
+        - {x: -44, y: -3.5}
+        - {x: -28, y: -6.5}
+        - {x: -23, y: -6.5}
+        - {x: -25, y: -6.5}
+        - {x: -45, y: -7.5}
+        - {x: -45, y: -15.5}
+        - {x: -12, y: -50.5}
+        - {x: 15, y: -50.5}
+        - {x: 45, y: -21.5}
+        - {x: 45, y: 50.5}
+    - name: vulture_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 458
+        width: 91
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 41.5}
+        - {x: -28.5, y: 37.5}
+        - {x: -43.5, y: 13.5}
+        - {x: -45.5, y: 2.5}
+        - {x: -45.5, y: -14.5}
+        - {x: -37.5, y: -18.5}
+        - {x: -30.5, y: -15.5}
+        - {x: -44.5, y: -22.5}
+        - {x: -45.5, y: -25.5}
+        - {x: -45.5, y: -37.5}
+        - {x: -33.5, y: -41.5}
+        - {x: 29.5, y: -41.5}
+        - {x: 45.5, y: -26.5}
+        - {x: 45.5, y: 41.5}
+    - name: vulture_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 458
+        width: 107
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: 43}
+        - {x: -53.5, y: 41}
+        - {x: -53.5, y: -37}
+        - {x: -45.5, y: -43}
+        - {x: -22.5, y: -43}
+        - {x: -20.5, y: -42}
+        - {x: -17.5, y: -38}
+        - {x: -18.5, y: -40}
+        - {x: -19.5, y: -43}
+        - {x: 24.5, y: -43}
+        - {x: 52.5, y: -39}
+        - {x: 53.5, y: -36}
+        - {x: 53.5, y: 37}
+        - {x: 48.5, y: 43}
+    - name: vulture_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 458
+        width: 116
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: -5}
+        - {x: 58, y: -1}
+        - {x: 58, y: 11}
+        - {x: 44, y: 20}
+        - {x: 30, y: 20}
+        - {x: 28, y: 17}
+        - {x: 22, y: 17}
+        - {x: 21, y: 16}
+        - {x: 20, y: 16}
+        - {x: 23, y: 17}
+        - {x: 33, y: 26}
+        - {x: 17, y: 43}
+        - {x: -30, y: 43}
+        - {x: -55, y: 26}
+        - {x: -58, y: 22}
+        - {x: -58, y: 0}
+        - {x: -48, y: 0}
+        - {x: -40, y: 2}
+        - {x: -37, y: 0}
+        - {x: -53, y: -1}
+        - {x: -56, y: -8}
+        - {x: -58, y: -12}
+        - {x: -58, y: -43}
+        - {x: 15, y: -43}
+        - {x: 58, y: -33}
+        - {x: 58, y: -27}
+        - {x: 42, y: -24}
+    - name: vulture_14
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 436
+        width: 124
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: 41.5}
+        - {x: -62, y: 40.5}
+        - {x: -62, y: -31.5}
+        - {x: -42, y: -41.5}
+        - {x: 7, y: -41.5}
+        - {x: 62, y: -13.5}
+        - {x: 62, y: 41.5}
+    - name: vulture_15
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 437
+        width: 124
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -35}
+        - {x: 18, y: -42}
+        - {x: 62, y: -42}
+        - {x: 62, y: 42}
+        - {x: -62, y: 42}
+        - {x: -62, y: 26}
+        - {x: -56, y: 19}
+        - {x: -40, y: 15}
+        - {x: -62, y: -6}
+        - {x: -62, y: -16}
+        - {x: -3, y: -37}
+        - {x: 0, y: -34}
+        - {x: 9, y: -42}
+        - {x: 14, y: -42}
+        - {x: 15, y: -33}
+        - {x: 15, y: -32}
+        - {x: 14, y: -30}
+    - name: vulture_16
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 487
+        width: 124
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 12}
+        - {x: -45, y: 12}
+        - {x: -48, y: 10}
+        - {x: -51, y: 5}
+        - {x: -49, y: -1}
+        - {x: -47, y: -3}
+        - {x: -41, y: -3}
+        - {x: -36, y: -2}
+        - {x: -36, y: -3}
+        - {x: -62, y: -3}
+        - {x: -62, y: -14}
+        - {x: -53, y: -28}
+        - {x: 37, y: -28}
+        - {x: 62, y: -25}
+        - {x: 62, y: 1}
+        - {x: 32, y: 28}
+        - {x: -38, y: 28}
+        - {x: -50, y: 15}
+    - name: vulture_17
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 462
+        width: 106
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 36}
+        - {x: -53, y: 0}
+        - {x: -53, y: -34}
+        - {x: -49, y: -36}
+        - {x: 53, y: -36}
+        - {x: 53, y: 36}
+    - name: vulture_18
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 462
+        width: 94
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 37.5}
+        - {x: -7, y: 37.5}
+        - {x: -47, y: -0.5}
+        - {x: -47, y: -37.5}
+        - {x: 42, y: -37.5}
+        - {x: 46, y: -33.5}
+        - {x: 47, y: -31.5}
+        - {x: 47, y: 21.5}
+    - name: vulture_19
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 463
+        width: 123
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 313
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: -18}
+        - {x: -39.5, y: -45}
+        - {x: -36.5, y: -47}
+        - {x: 39.5, y: -47}
+        - {x: 39.5, y: 39}
+        - {x: 37.5, y: 47}
+        - {x: 4.5, y: 47}
+        - {x: -18.5, y: 40}
+        - {x: -30.5, y: 10}
+    - name: vulture_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 313
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 43}
+        - {x: -39.5, y: 13}
+        - {x: -39.5, y: -43}
+        - {x: 39.5, y: -43}
+        - {x: 39.5, y: 43}
+    - name: vulture_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 314
+        width: 86
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 47}
+        - {x: -43, y: 14}
+        - {x: -43, y: -40}
+        - {x: -33, y: -47}
+        - {x: 43, y: -47}
+        - {x: 43, y: 35}
+        - {x: 40, y: 47}
+    - name: vulture_23
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 313
+        width: 94
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -21}
+        - {x: 47, y: 8}
+        - {x: 47, y: 30}
+        - {x: 29, y: 43}
+        - {x: -16, y: 43}
+        - {x: -31, y: 37}
+        - {x: -47, y: 19}
+        - {x: -47, y: 0}
+        - {x: -29, y: 1}
+        - {x: -47, y: -2}
+        - {x: -47, y: -42}
+        - {x: -43, y: -43}
+        - {x: 29, y: -43}
+        - {x: 46, y: -31}
+        - {x: 47, y: -27}
+        - {x: 47, y: -25}
+    - name: vulture_24
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 314
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: 43.5}
+        - {x: 36.5, y: 42.5}
+        - {x: 27.5, y: 38.5}
+        - {x: 13.5, y: 45.5}
+        - {x: -24.5, y: 45.5}
+        - {x: -44.5, y: 17.5}
+        - {x: -44.5, y: 14.5}
+        - {x: -43.5, y: 11.5}
+        - {x: -39.5, y: 12.5}
+        - {x: -38.5, y: 13.5}
+        - {x: -34.5, y: 13.5}
+        - {x: -26.5, y: 15.5}
+        - {x: -34.5, y: 13.5}
+        - {x: -37.5, y: 13.5}
+        - {x: -40.5, y: 9.5}
+        - {x: -43.5, y: 3.5}
+        - {x: -44.5, y: -5.5}
+        - {x: -44.5, y: -38.5}
+        - {x: -40.5, y: -45.5}
+        - {x: 36.5, y: -45.5}
+        - {x: 44.5, y: -15.5}
+        - {x: 44.5, y: 42.5}
+    - name: vulture_25
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 309
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 10.5}
+        - {x: 41.5, y: 31.5}
+        - {x: 39.5, y: 40.5}
+        - {x: 0.5, y: 40.5}
+        - {x: -23.5, y: 37.5}
+        - {x: -41.5, y: 5.5}
+        - {x: -41.5, y: -40.5}
+        - {x: 16.5, y: -40.5}
+        - {x: 37.5, y: -35.5}
+        - {x: 41.5, y: -18.5}
+        - {x: 41.5, y: -0.5}
+        - {x: 38.5, y: 3.5}
+    - name: vulture_26
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 316
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 27.5}
+        - {x: -47, y: 17.5}
+        - {x: -47, y: -27.5}
+        - {x: 32, y: -27.5}
+        - {x: 47, y: -14.5}
+        - {x: 47, y: 23.5}
+        - {x: 46, y: 27.5}
+    - name: vulture_27
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 317
+        width: 91
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 20}
+        - {x: -42.5, y: 16}
+        - {x: -45.5, y: 12}
+        - {x: -45.5, y: -14}
+        - {x: -32.5, y: -20}
+        - {x: 43.5, y: -20}
+        - {x: 45.5, y: -14}
+        - {x: 45.5, y: 20}
+    - name: vulture_28
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 317
+        width: 89
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_29
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 317
+        width: 89
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_30
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 273
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_31
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 273
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_32
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 273
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_33
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 123
+        width: 96
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 81}
+        - {x: -48, y: 23}
+        - {x: -48, y: -81}
+        - {x: 48, y: -81}
+        - {x: 48, y: 65}
+        - {x: 26, y: 81}
+    - name: vulture_34
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 134
+        width: 135
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 72.5}
+        - {x: -39.5, y: 72.5}
+        - {x: -67.5, y: 32.5}
+        - {x: -67.5, y: -72.5}
+        - {x: 67.5, y: -72.5}
+        - {x: 67.5, y: 3.5}
+        - {x: 25.5, y: 71.5}
+    - name: vulture_35
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 255
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_36
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_37
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 255
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_38
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_39
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_40
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 255
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_41
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_42
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 255
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_43
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 255
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_44
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 252
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_45
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 255
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_46
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 255
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_47
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_48
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_49
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 255
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_50
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 255
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_51
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_52
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 252
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_53
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 255
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_54
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 239
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_55
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 239
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_56
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 237
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_57
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 239
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_58
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 239
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_59
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 239
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_60
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 236
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_61
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 239
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_62
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 239
+        width: 1
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_63
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 239
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 239
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_65
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 239
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_66
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 239
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_67
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 239
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_68
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 239
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_69
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 161
+        width: 124
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 28.5}
+        - {x: -41, y: 28.5}
+        - {x: -41, y: 24.5}
+        - {x: -40, y: 21.5}
+        - {x: -42, y: 20.5}
+        - {x: -48, y: 16.5}
+        - {x: -62, y: -3.5}
+        - {x: -62, y: -16.5}
+        - {x: -51, y: -28.5}
+        - {x: 26, y: -28.5}
+        - {x: 62, y: -18.5}
+        - {x: 62, y: -1.5}
+        - {x: 61, y: -0.5}
+    - name: vulture_70
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 95
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: 47.5}
+        - {x: -40.5, y: 44.5}
+        - {x: -38.5, y: 28.5}
+        - {x: -37.5, y: 22.5}
+        - {x: -40.5, y: 30.5}
+        - {x: -43.5, y: 35.5}
+        - {x: -46.5, y: 34.5}
+        - {x: -46.5, y: -27.5}
+        - {x: 1.5, y: -47.5}
+        - {x: 46.5, y: -47.5}
+        - {x: 46.5, y: 28.5}
+        - {x: 37.5, y: 47.5}
+    - name: vulture_71
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 94
+        width: 88
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33, y: -8.5}
+        - {x: 38, y: -8.5}
+        - {x: 43, y: -5.5}
+        - {x: 44, y: -2.5}
+        - {x: 44, y: 27.5}
+        - {x: 24, y: 48.5}
+        - {x: 11, y: 48.5}
+        - {x: 12, y: 40.5}
+        - {x: 14, y: 32.5}
+        - {x: 12, y: 43.5}
+        - {x: 8, y: 46.5}
+        - {x: 6, y: 48.5}
+        - {x: -30, y: 48.5}
+        - {x: -44, y: 41.5}
+        - {x: -44, y: -33.5}
+        - {x: -2, y: -48.5}
+        - {x: 39, y: -48.5}
+        - {x: 44, y: -44.5}
+        - {x: 44, y: -8.5}
+        - {x: 36, y: -9.5}
+        - {x: 29, y: -6.5}
+    - name: vulture_72
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 92
+        width: 163
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 48}
+        - {x: -81.5, y: 19}
+        - {x: -81.5, y: -49}
+        - {x: 81.5, y: -49}
+        - {x: 81.5, y: 40}
+        - {x: 56.5, y: 48}
+    - name: vulture_73
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 63
+        width: 143
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: -24.5}
+        - {x: 23.5, y: -27.5}
+        - {x: 55.5, y: -41.5}
+        - {x: 71.5, y: -40.5}
+        - {x: 71.5, y: 32.5}
+        - {x: 62.5, y: 41.5}
+        - {x: 0.5, y: 62.5}
+        - {x: -47.5, y: 62.5}
+        - {x: -53.5, y: 51.5}
+        - {x: -71.5, y: -1.5}
+        - {x: -71.5, y: -18.5}
+        - {x: -69.5, y: -19.5}
+        - {x: -62.5, y: -15.5}
+        - {x: -60.5, y: -15.5}
+        - {x: -62.5, y: -15.5}
+        - {x: -69.5, y: -22.5}
+        - {x: -71.5, y: -25.5}
+        - {x: -71.5, y: -57.5}
+        - {x: -69.5, y: -62.5}
+        - {x: 15.5, y: -62.5}
+        - {x: 36.5, y: -54.5}
+        - {x: 16.5, y: -30.5}
+        - {x: 8.5, y: -24.5}
+        - {x: 6.5, y: -24.5}
+    - name: vulture_74
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 126
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: 48}
+        - {x: -19.5, y: 37}
+        - {x: -39.5, y: 13}
+        - {x: -39.5, y: 4}
+        - {x: -35.5, y: 5}
+        - {x: -34.5, y: 6}
+        - {x: -30.5, y: 6}
+        - {x: -22.5, y: 8}
+        - {x: -30.5, y: 6}
+        - {x: -33.5, y: 6}
+        - {x: -37.5, y: 3}
+        - {x: -39.5, y: -6}
+        - {x: -39.5, y: -40}
+        - {x: -29.5, y: -48}
+        - {x: 39.5, y: -48}
+        - {x: 39.5, y: 48}
+    - name: vulture_75
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 129
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 40}
+        - {x: 27, y: 36}
+        - {x: 13, y: 43}
+        - {x: -25, y: 43}
+        - {x: -44, y: 16}
+        - {x: -44, y: 9}
+        - {x: -40, y: 10}
+        - {x: -39, y: 11}
+        - {x: -35, y: 11}
+        - {x: -27, y: 13}
+        - {x: -35, y: 11}
+        - {x: -38, y: 11}
+        - {x: -41, y: 7}
+        - {x: -44, y: 1}
+        - {x: -44, y: -41}
+        - {x: -38, y: -43}
+        - {x: 14, y: -43}
+        - {x: 44, y: -14}
+        - {x: 44, y: 37}
+        - {x: 40, y: 41}
+    - name: vulture_76
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 134
+        width: 123
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_77
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 82
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_78
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 79
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_79
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 79
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_80
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 82
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_81
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 82
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_82
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 82
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_83
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 79
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_84
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 26
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 50}
+        - {x: -24.5, y: -50}
+        - {x: 24.5, y: -50}
+        - {x: 24.5, y: 50}
+    - name: vulture_85
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 64
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_86
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 61
+        width: 124
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_87
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 64
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_88
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 64
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_89
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 64
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_90
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 48
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_91
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 48
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_92
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 48
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_93
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 48
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_94
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 45
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_95
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 48
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_96
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 48
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_97
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 48
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_98
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 46
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_99
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 45
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_100
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 48
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_101
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 48
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_102
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 48
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_103
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 48
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_104
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 48
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_105
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 11
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -5}
+        - {x: -7.5, y: -17}
+        - {x: 23.5, y: -17}
+        - {x: 23.5, y: 17}
+        - {x: -23.5, y: 17}
+    - name: vulture_106
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 11
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 17}
+        - {x: -1.5, y: 11}
+        - {x: -3.5, y: 6}
+        - {x: -22.5, y: 3}
+        - {x: -23.5, y: 2}
+        - {x: -23.5, y: -6}
+        - {x: -6.5, y: -17}
+        - {x: 19.5, y: -17}
+        - {x: 23.5, y: -14}
+        - {x: 23.5, y: 17}
+    - name: vulture_107
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 11
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 17}
+        - {x: -0.5, y: 12}
+        - {x: -23.5, y: 5}
+        - {x: -23.5, y: -7}
+        - {x: -9.5, y: -17}
+        - {x: 23.5, y: -17}
+        - {x: 23.5, y: 17}
+    - name: vulture_108
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 11
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 17}
+        - {x: -24, y: 7}
+        - {x: -24, y: -6}
+        - {x: -7, y: -17}
+        - {x: 24, y: -17}
+        - {x: 24, y: 17}
+    - name: vulture_109
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 11
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 17}
+        - {x: -24.5, y: 6}
+        - {x: -24.5, y: -6}
+        - {x: -19.5, y: -13}
+        - {x: -6.5, y: -17}
+        - {x: 24.5, y: -17}
+        - {x: 24.5, y: 17}
+    - name: vulture_110
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 11
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: -11}
+        - {x: -21.5, y: -16}
+        - {x: -13.5, y: -17}
+        - {x: 22.5, y: -17}
+        - {x: 23.5, y: -14}
+        - {x: 23.5, y: 17}
+        - {x: -6.5, y: 17}
+        - {x: -23.5, y: 11}
+    - name: vulture_111
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 21
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_112
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 11
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 16}
+        - {x: -22.5, y: -1}
+        - {x: -18.5, y: -5}
+        - {x: -14.5, y: -4}
+        - {x: -18.5, y: -5}
+        - {x: -22.5, y: -9}
+        - {x: -22.5, y: -16}
+        - {x: 22.5, y: -16}
+        - {x: 22.5, y: 16}
+    - name: vulture_113
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 29
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_114
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_115
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_116
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 32
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_117
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_118
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 29
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_119
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_120
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_121
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_122
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 32
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_123
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_124
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 32
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_125
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 32
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: vulture_126
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 11
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
